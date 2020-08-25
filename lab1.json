@@ -259,7 +259,8 @@
                 },
                 "osProfile": {
                     "computerName": "[parameters('virtualMachines_FrontendVM_name')]",
-                    "adminUsername": "azureuser",
+                   "adminUsername": "[parameters('adminUsername')]",
+                    "adminPassword": "[parameters('adminPassword')]",
                     "windowsConfiguration": {
                         "provisionVMAgent": true,
                         "enableAutomaticUpdates": true
