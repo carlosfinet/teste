@@ -13,6 +13,7 @@
             "metadata": {
                "description": "Password for the admin account on the backend servers"
             }
+		},
         "virtualNetworks_MyVNet1_name": {
             "defaultValue": "MyVNet1",
             "type": "String"
