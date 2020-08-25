@@ -192,7 +192,7 @@
                             "storageAccountType": "StandardSSD_LRS"
                         },
                         "diskSizeGB": 127
-                    },
+                    }
                    
                 },
                 "osProfile": {
@@ -242,7 +242,7 @@
                             "storageAccountType": "StandardSSD_LRS"                           
                         },
                         "diskSizeGB": 127
-                    },
+                    }
                    
                 },
                 "osProfile": {
