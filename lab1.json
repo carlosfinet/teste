@@ -202,9 +202,8 @@
                         "provisionVMAgent": true,
                         "enableAutomaticUpdates": true
                     },
-                    "secrets": [],
-                    "allowExtensionOperations": true,
-                    "requireGuestProvisionSignal": true
+                   
+                          "allowExtensionOperations": true
                 },
                 "networkProfile": {
                     "networkInterfaces": [
@@ -252,9 +251,9 @@
                         "provisionVMAgent": true,
                         "enableAutomaticUpdates": true
                     },
-                    "secrets": [],
-                    "allowExtensionOperations": true,
-                    "requireGuestProvisionSignal": true
+              
+                    "allowExtensionOperations": true
+               
                 },
                 "networkProfile": {
                     "networkInterfaces": [
